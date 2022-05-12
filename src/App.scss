@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;700&family=Tapestry&display=swap");
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.header__title {
+  font-family: "Tapestry", cursive;
+  color: white;
+  letter-spacing: 4px;
+}
+
+.games__container {
+  padding: 30px 100px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
